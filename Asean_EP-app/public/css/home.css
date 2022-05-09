@@ -1,0 +1,55 @@
+.top {
+    background-image: url('../img/background_image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text {
+    text-align: center;
+    width: 25%;
+    margin-left: 5em;
+    padding-top: 7em;
+    padding-bottom: 13.8em;
+    background: rgba(0, 0, 0, 0.271);
+    color: #376d81;
+}
+
+.detail {
+    color: #fff;
+    text-align: left;
+    font-weight: normal;
+    font: icon;
+}
+
+.btn button{
+    font-weight: 700;
+}
+
+.dtl{
+    color: #535369;
+    text-align: center;
+    width: 70%;
+    padding-top: 4em;
+    padding-bottom: 3em;
+}
+
+.dtl p {
+    font-weight: 500;
+}
+
+.partner {
+    width: 60%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.partner h1 {
+    text-align: center;
+    color: #376d81;
+    font-weight: 700;
+    padding-bottom: 0.5em;
+}
+
+.partner p {
+    text-align: center;
+}

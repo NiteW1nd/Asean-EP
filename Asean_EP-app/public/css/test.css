@@ -1,0 +1,108 @@
+.img {
+    background-image: url('../img/background_image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 10em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.quiz {
+    padding-top: 5em;
+}
+
+.quiz h1 {
+    color: #376d81;
+    font-weight: 700;
+}
+
+.quiz h5 {
+    color: #376d81;
+    font-weight: 700;
+}
+
+.gender{
+    padding-top: 3em;
+    padding-bottom: 1em;
+}
+
+.title{
+    font-weight: 700;
+}
+
+.country {
+    padding-bottom: 1em;
+}
+
+.age {
+    padding-bottom: 1em;
+}
+
+.business-type {
+    padding-bottom: 1em;
+}
+
+.business-field {
+    padding-bottom: 2em;
+}
+
+.quiz{
+    width: 80%;
+    padding-bottom: 10em;
+}
+
+input[type="radio"]{
+    margin: 0 0px 0 10px;
+}
+
+.quest1 {
+    padding-bottom: 1em;
+}
+.quest2 {
+    padding-bottom: 1em;
+}
+.quest3 {
+    padding-bottom: 1em;
+}
+.quest4 {
+    padding-bottom: 1em;
+}
+.quest5 {
+    padding-bottom: 1em;
+}
+.quest6 {
+    padding-bottom: 1em;
+}
+.quest7 {
+    padding-bottom: 1em;
+}
+.quest8 {
+    padding-bottom: 1em;
+}
+.quest9 {
+    padding-bottom: 1em;
+}
+.quest10 {
+    padding-bottom: 1em;
+}
+.quest11 {
+    padding-bottom: 1em;
+}
+.quest12 {
+    padding-bottom: 1em;
+}
+.quest13 {
+    padding-bottom: 1em;
+}
+.quest14 {
+    padding-bottom: 1em;
+}
+.quest15 {
+    padding-bottom: 1em;
+}
+.quest16 {
+    padding-bottom: 2em;
+}
+
+.submit {
+    margin-left: 2em;
+}

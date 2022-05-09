@@ -1,0 +1,17 @@
+.img {
+    background-image: url('../img/background_image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 10em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    padding-top: 5em;
+    width: 75%;
+}
+
+.title h1 {
+    color: #376d81;
+    font-weight: 700;
+}

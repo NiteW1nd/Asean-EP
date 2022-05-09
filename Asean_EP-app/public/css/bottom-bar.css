@@ -1,0 +1,44 @@
+.bot {
+    background-image: url('../img/asean_map.jpg');
+    text-align: left;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    background-size: cover;
+}
+
+.address {
+    text-align: left;
+    width: 40%;
+    margin: 3em auto;
+    margin-left: 2em;
+    color: #376d81;
+    
+}
+.address p a{
+    color: #fff;
+    font-size: large;
+    font-weight: 700;
+}
+
+.address h1 {
+    color: #fff;
+    font-size: small;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+.address h2 {
+    color: #fff;
+    font-size: small;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+.bot-bar {
+    background-color: #376d81;
+}
+
+.bot-bar p {
+    color: #fff;
+    font-weight: 100;
+}
