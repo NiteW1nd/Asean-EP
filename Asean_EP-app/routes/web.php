@@ -51,7 +51,7 @@ Route::post('/logout', [LoginController::class, 'logout']);
 Route::get('/register', [RegisterController::class, 'index'])->middleware('guest');
 Route::post('/register', [RegisterController::class, 'store']);
 
-Route::get('login', [AuthController::class, 'index'])->middleware(['auth', 'is_verify_email']); 
-Route::get('account/verify/{token}', [AuthController::class, 'verifyAccount'])->name('user.verify'); 
+// Route::get('login', [AuthController::class, 'index'])->middleware(['auth', 'is_verify_email']); 
+// Route::get('account/verify/{token}', [AuthController::class, 'verifyAccount'])->name('user.verify'); 
 
 Route::get('/home', [HomesController::class, 'index'])->middleware('auth');
